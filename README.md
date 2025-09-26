@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/b4918bcd-da12-4b8c-8b85-9847ce0b4849" /><img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/cf10f745-50ca-4d5b-8d52-554c73019fed" /># SkillSprint
+# SkillSprint
 
 SkillSprint is a sleek and responsive UI project built with pure **HTML** and **CSS**.  
 It showcases modern layouts, creative styling, and responsive design principles to highlight core front-end skills.
